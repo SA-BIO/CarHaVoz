@@ -20,7 +20,7 @@ export default function Contact() {
     });
 
     const data = await response.json();
-    setResult(data.success ? "Success!" : "Error");
+    setResult(data.success ? "¡Enviado!" : "Error");
     };
 
     function CaptchaLoader() {
