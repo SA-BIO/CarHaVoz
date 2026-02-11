@@ -7,10 +7,10 @@ export default function Papers() {
             link: 'https://www.sciencedirect.com/science/article/pii/S0892199724003199',
         },
         {
-            name: 'Acoustic Analysis of Phonation in Children With Smith–Magenis Syndrome',
+            name: 'Beyond the conservative hypothesis: a meta-analysis of lexical-semantic processing in Williams syndrome',
             icon: './assets/paperIrene.png',
             description: 'mobile app',
-            link: 'https://www.researchgate.net/publication/352091953_Acoustic_Analysis_of_Phonation_in_Children_With_Smith-Magenis_Syndrome?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJwcm9maWxlIiwicHJldmlvdXNQYWdlIjpudWxsLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19',
+            link: 'https://www.cambridge.org/core/journals/language-and-cognition/article/beyond-the-conservative-hypothesis-a-metaanalysis-of-lexicalsemantic-processing-in-williams-syndrome/B77F5AAED9B5CCDFE283C63C9E404BDE',
         },
         {
             name: 'Noninvasive Deep Learning Analysis for Smith–Magenis Syndrome',
@@ -19,10 +19,10 @@ export default function Papers() {
             link: 'https://www.mdpi.com/2076-3417/14/21/9747',
         },
         {
-            name: 'Identification of Smith–Magenis syndrome through an experimental evaluation of machine learning methods',
-            icon: './assets/paperRaul.png',
+            name: 'Towards a genetics of semantics? False memories and semantic memory organization in Williams syndrome',
+            icon: './assets/paperIrene2.png',
             description: 'UI/UX Design',
-            link: 'https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2024.1357607/full',
+            link: 'https://www.sciencedirect.com/science/article/pii/S0028393225000417',
         }
     ];
     return (
