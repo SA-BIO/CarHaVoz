@@ -4,7 +4,7 @@ import './ImageCarousel.css';
 export default function Colaboradores() {
 
     const images = [
-        { id: 1, src: './assets/Agustin.png'},
+        { id: 1, src: './assets/rafa.png'},
         { id: 2, src: './assets/Agustin.png'},
         { id: 3, src: './assets/Irene.png'},
         { id: 4, src: './assets/Elena.png'},
@@ -15,7 +15,7 @@ export default function Colaboradores() {
     ]
 
     const miembros = [
-        {id: 1, nombre: 'Rafael Martínez Olalla',scholar:'https://scholar.google.com/scholar?hl=es&as_sdt=0%2C5&q=rafael+martinez+olalla&btnG=', txt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fermentum purus vitae lobortis feugiat. Aenean sem erat, vehicula sed nibh eget, tempor consequat risus. In sit amet ligula tortor. Integer at quam risus. In finibus purus id maximus fringilla. Nunc dignissim diam quis finibus venenatis. Integer finibus tellus eget commodo accumsan. Donec viverra hendrerit nisl.'},
+        {id: 1, nombre: 'Rafael Martínez Olalla',scholar:'https://scholar.google.com/scholar?hl=es&as_sdt=0%2C5&q=rafael+martinez+olalla&btnG=', txt: ' es profesor titular del departamento de Arquitectura y Tecnología de Sistemas Informáticos de la Universidad Politécnica de Madrid. Está especializado en el procesado digital de la señal y más en concreto en la señal de voz.'},
         {id: 2, nombre: 'Agustín Álvarez Marquina',scholar:'https://scholar.google.com/scholar?hl=es&as_sdt=0%2C5&q=agustin+alvarez+marquina&btnG=&oq=Agustin+Alvarez+ma' , txt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fermentum purus vitae lobortis feugiat. Aenean sem erat, vehicula sed nibh eget, tempor consequat risus. In sit amet ligula tortor. Integer at quam risus. In finibus purus id maximus fringilla. Nunc dignissim diam quis finibus venenatis. Integer finibus tellus eget commodo accumsan. Donec viverra hendrerit nisl.'},
         {id: 3, nombre: 'Irene Hidalgo Guía',scholar: 'https://scholar.google.com/scholar?hl=es&as_sdt=0%2C5&q=irene+hidalgo+de+la+gu%C3%ADa&btnG=&oq=Irene+Hidal', txt: ' es profesora en el Departamento de Lengua española y Teoría de la literatura en la Universidad Complutense de Madrid. Es doctora en Lingüística Clínica y está especializada en Fonética y Fonología del español. Su investigación gira en torno a la aplicación clínica y forense de la Fonética y de la Fonología del español. Colabora en el Laboratorio de Procesado Neuromórfico de la Voz, en el Centro de Tecnología Biomédica de la Universidad Politécnica de Madrid, y es miembro del grupo de Lingüistas Forenses. También colabora con la Universidad Rey Juan Carlos en el desarrollo de aplicaciones de biometría del habla.'},
         {id: 4, nombre: 'Elena Garayzábal Heinze',scholar:'https://scholar.google.com/scholar?hl=es&as_sdt=0%2C5&q=Elena+Garayz%C3%A1bal+Heinze&btnG=' ,txt: ' es logopeda y profesora titular del departamento de Lingüística General de la Universidad Autónoma de Madrid. Está especializada en la aplicación de la Lingüística Clínica y su investigación se centra en el estudio de enfermedades genéticas del neurodesarrollo de baja frecuencia, entre ellas el síndrome de Smith-Magenis.'},

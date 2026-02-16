@@ -17,16 +17,6 @@ export default function HablApp() {
         setIndex(current);
       }
     };
-  const images = [
-    { id: 1, src: "./assets/Agustin.png" },
-    { id: 2, src: "./assets/Agustin.png" },
-    { id: 3, src: "./assets/DaniP.png" },
-    { id: 4, src: "./assets/Irene.png" },
-    { id: 5, src: "./assets/Elena.png" },
-    { id: 6, src: "./assets/Nikola.png" },
-    { id: 7, src: "./assets/DaniG.png" },
-    { id: 8, src: "./assets/Raul.png" },
-  ];
 
   const services = [
     {
