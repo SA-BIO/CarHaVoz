@@ -10,6 +10,7 @@ import CarHaVoz2 from './components/CarHaVoz2'
 import Colaboradores from './components/Colaboradores'
 import Papers from './components/Papers'
 import HablApp from './components/HablApp'
+import PrivacyPolicy from './components/PP'
 export default function App() {
     return (
         <>
@@ -21,6 +22,7 @@ export default function App() {
             
             <HablApp />
             <Papers />
+            <PrivacyPolicy />
             <Contact />
             <Footer />
         </>

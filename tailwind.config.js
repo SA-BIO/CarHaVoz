@@ -3,6 +3,7 @@ export default {
     content: [
         "./index.html",
         "./src/**/*.{js,ts,jsx,tsx}",
+        "./node_modules/preline/preline.js"
     ],
     theme: {
         extend: {
@@ -28,5 +29,5 @@ export default {
         },
     },
     darkMode: 'selector',
-    plugins: [],
+    plugins: [require('@tailwindcss/forms')],
 }

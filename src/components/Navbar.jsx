@@ -61,6 +61,7 @@ export default function Navbar() {
                     <li><a className='hover:text-gray-500 dark:hover:text-gray-300 transition' href="#colaboradores">Colaboradores</a></li>
                     <li><a className='hover:text-gray-500 dark:hover:text-gray-300 transition' href="#hablapp">HablApp</a></li>
                     <li><a className='hover:text-gray-500 dark:hover:text-gray-300 transition' href="#papers">Trabajos</a></li>
+                    <li><a className='hover:text-gray-500 dark:hover:text-gray-300 transition' href="#politcaPrivacidad">Privacidad</a></li>
                     <li><a className='hover:text-gray-500 dark:hover:text-gray-300 transition' href="#contact">Contáctanos</a></li>
                 </ul>
 
